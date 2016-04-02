@@ -1,0 +1,10 @@
+﻿Name: Import-Export Bindings
+AntiForgery: enabled
+Author: Stanley Goldman
+Website: https://github.com/StanleyGoldman/Orchard-ImportExportBindings
+Version: 1.0
+OrchardVersion: 1.0
+Description: This module allows import/export of Member Bindings; As in this work item: http://orchard.codeplex.com/workitem/19447
+FeatureDescription:
+Category: Fields
+Dependencies: Orchard.Projections
